@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dependency_injection"},{"l":"inheritance.webshop"},{"l":"interfaces.country"},{"l":"interfaces.markdown"}];updateSearchResults();
